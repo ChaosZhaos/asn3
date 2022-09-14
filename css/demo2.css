@@ -1,0 +1,33 @@
+.line {
+  width: 100%;
+  height: 50px;
+  background-color: #ff6600;
+  line-height: 50px;
+  color: #fff;
+}
+.line1 {
+  display: flex;
+  justify-content: space-around;
+}
+.line1 .titleL {
+  margin-left: -364px;
+  font-size: 34px;
+}
+.line1 .titleR {
+  margin-right: -364px;
+  font-size: 21px;
+  cursor: pointer;
+}
+.pic-com {
+  display: flex;
+  margin: 20px 90px;
+}
+.MO {
+  width: 533px;
+  height: 343px;
+}
+.MO img {
+  width: 100%;
+  height: 100%;
+  border-radius: 10px;
+}
